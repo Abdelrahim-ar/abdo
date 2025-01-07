@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdelrahim Ahmed, a Front-End Developer 💻 from Egypt.</h1>
+<h1>Hi, I'm Abdelrahim Ahmed, a Front-End Developer 💻 from Egypt 🇪🇬.</h1>
 
 
 
@@ -9,11 +9,15 @@
 	<a alt="Telegram" href="https://AbdelrahemAhmed.t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"></a>
 </p>
 
+
+
 ## About me 😁:
 - 🧑‍🎓 I’m currently a high school student ;
 - 📴 In love with tech stuff ❤ ;
-- 🎮 Hard Core Gamer
+- 🎮 Hard Core Gamer ;
 - 📫 How to reach me: bwtatalwl@gmail.com ;
+
+
 
 ## My Progaraming Languages👨‍💻:
 <p>
@@ -22,11 +26,15 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+
+
 ## Writing in📝:
 <p>
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 </p>
+
+
 
 ## System used🖥:
 <p>
@@ -34,7 +42,11 @@
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
+
+
 ----
+
+
 
 <p align="center" width="100%">
 	<img alt="HitCount" src="https://img.shields.io/github/followers/Abdelrahim-ar?style=flat&logoColor=blue&labelColor=gray&color=blue"/>
@@ -42,8 +54,18 @@
 	<img alt="ViewCount" src="https://img.shields.io/github/stars/Abdelrahim-ar?style=flat&labelColor=gray&color=blue"/>
 </p>
 
+
+
 ----
+
+
 
  <p>
 	 <h2 align="center" width="100%">I think that is all about me 😅😅</h2>
  </p>
+
+
+
+
+
+
